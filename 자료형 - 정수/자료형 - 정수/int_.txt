@@ -1,0 +1,18 @@
+//signed : 부호 있는 정수를 표현함.   unsigned : 부호 없는 정수 -> 0부터 시작
+/*signed int = int      보통 int로 적음.
+unsigned int = unsigned
+
+signed char = char
+unsigned char -> 생략 불가
+
+signed short int = short
+unsigned short int = unsigned short
+
+signed long int = long
+unsigned long int = unsigned long
+
+long만 쓸 수 있지만, long int로도 작성함
+
+signed long long int = long long
+unsigned long long int = unsigned long long int
+*/
