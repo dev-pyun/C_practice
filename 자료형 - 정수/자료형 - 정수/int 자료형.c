@@ -22,7 +22,7 @@ int main()
 
     unsigned long long num10 = 12345678901234567890;    // 8바이트 부호 없는 정수형으로 
                                                        // 변수를 선언하고 값 할당
-                                                       // 
+                                                       // 만약 범위를 넘어서면 over/underflow 발생함.
     // char, short, int는 %d로 출력하고 long은 %ld, long long은 %lld로 출력
     printf("%d %d %d %ld %lld\n", num1, num2, num3, num4, num5);
     printf("%u %u %u %lu %llu\n", num6, num7, num8, num9, num10);
