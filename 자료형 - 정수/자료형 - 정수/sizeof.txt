@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main()
+{
+	int num1 = 0;
+	int size;
+
+	size = sizeof num1;
+	// 아니면 int size = sizeof num1로 바로 선언했어도 ok!
+	/* sizeof 표현식
+	   sizeof(자료형)		//자료형은 sizeof에 바로 넣고싶으면 괄호 이용해야!
+	   sizeof(표현식) */
+
+	printf("num1의 크기 : %d\n", size);
+
+	return 0;
+}
