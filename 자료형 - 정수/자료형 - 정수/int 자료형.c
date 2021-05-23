@@ -28,3 +28,9 @@ int main()
     printf("%u %u %u %lu %llu\n", num6, num7, num8, num9, num10);
     return 0;
 }
+
+/*%d: 10진수(decimal)의 약어로 d를 사용합니다.
+%ld: long decimal의 첫 글자를 따서 ld를 사용합니다.
+%lld: long long decimal의 첫 글자를 따서 lld를 사용합니다.
+
+unsigned int는 %u, unsigned long은 %lu, unsigned long long은 %llu로 출력해야 합니다.*/
