@@ -22,4 +22,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="sizeof.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
+    <Text Include="integer_type_sizeof.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
+  </ItemGroup>
 </Project>

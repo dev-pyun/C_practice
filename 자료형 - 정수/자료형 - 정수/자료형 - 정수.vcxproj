@@ -142,6 +142,10 @@
     <ClCompile Include="int 자료형.c" />
     <ClCompile Include="int_.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="integer_type_sizeof.txt" />
+    <Text Include="sizeof.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
