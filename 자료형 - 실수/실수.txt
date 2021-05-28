@@ -1,0 +1,6 @@
+float, double, long double 등으로 저장
+부동소수점 (소수점이 떠다님) 방식으로 저장함.
+
+float 4byte, 유효자릿수 7
+double 8byte, 유효자릿수 16
+long double 8byte, 유효자릿수 16
