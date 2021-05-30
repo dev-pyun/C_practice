@@ -15,4 +15,7 @@ int main()
     printf("%e %e \n", num3, num4);
     printf("%Le %Le \n", num5, num6);
     //%e는 지수 표시법으로 표시하라는 소리
+
+    printf("%f\n", num1 / 100000000.0f);
+    printf("%f\n", num2 *1000.0f);
 }
