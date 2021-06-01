@@ -18,4 +18,5 @@ int main()
 
     printf("%f\n", num1 / 100000000.0f);
     printf("%f\n", num2 *1000.0f);
+    
 }
