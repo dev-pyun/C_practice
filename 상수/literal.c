@@ -18,6 +18,7 @@ int main()
     printf("%f\n", 1.0e-5f);    // 0.000010: 실수 리터럴 지수 표기법
     printf("%f\n", 1.0E-5F);    // 0.000010: 실수 리터럴 지수 표기법
     printf("%f\n", 1.0e-5F);
+    printf("%f\n", 1.0E-5f);
 
     return 0;
 }
