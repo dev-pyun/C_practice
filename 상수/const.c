@@ -9,6 +9,7 @@ int main()
     //상수에 초기화로 값을 할당한 순간 그 상수는 고정됨
 
     //con3 = 'b' -> 에러
+    //con1 = 12 -> 에러
 
     printf("%d %f %c\n", con1, con2, con3);
 
