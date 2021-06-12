@@ -11,7 +11,7 @@ int main()
 
     //con3 = 'b' -> 에러
     //con1 = 12 -> 에러
-
+//sdflkj
     printf("%d %f %c\n", con1, con2, con3);
 
     return 0;
