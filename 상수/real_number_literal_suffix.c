@@ -11,6 +11,7 @@ int main()
     printf("%f\n", 1.0e-5);
     printf("%f\n", 1.0e-5l);
     printf("%f\n", 1.0);
+    printf("%f\n", 1.002l);
 
     return 0;
 }
