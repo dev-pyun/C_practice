@@ -8,6 +8,7 @@ int main()
     scanf("%c", &c1);
 
     printf("%c", c1);
+    //므어어
 
     return 0;
 }
