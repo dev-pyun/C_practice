@@ -4,11 +4,13 @@
 int main()
 {
     char c1;
+    int num1;
+    float num2;
     printf("문자를 입력하세요 : ");
-    scanf("%c", &c1);
+    scanf("%c %d %f", &c1, &num1, &num2);
 
-    printf("%c", c1);
-    //므어어
+    printf("%c %d %f", c1, num1, num2);
+    
 
     return 0;
 }
