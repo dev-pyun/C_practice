@@ -10,6 +10,7 @@ int main()
     scanf("%c %d %f", &c1, &num1, &num2);
 
     printf("%c %d %f", c1, num1, num2);
+    //여러문자 한꺼번에 입력 가능
     
 
     return 0;
