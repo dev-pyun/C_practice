@@ -12,4 +12,5 @@ int main()
     printf("%f\n", num2);
 
     return 0;
+    //덧셈 뺄셈 확인
 }
