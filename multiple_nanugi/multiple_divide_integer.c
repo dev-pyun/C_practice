@@ -14,7 +14,7 @@ int main()
     num4 = 7.0f / 2.0f;
 
     printf("%d %d\n", num1, num2);
-    printf("%f %f\n", num3, num4);
+    printf("%f %f\n", num3, num4);  //여기에서 지정 연산자 잘못 놓으면 계산 오류남.
 
     return 0;
 
