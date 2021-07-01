@@ -15,7 +15,7 @@ int main()
 
     printf("%d %d\n", num1, num2);
     printf("%f %f\n", num3, num4);  //여기에서 지정 연산자 잘못 놓으면 계산 오류남.
-
+    //또한 파이썬과는 다르게 작은따음표로 하면 안됨.
     return 0;
 
 }
