@@ -25,6 +25,8 @@ int main()
     num4 = input % 10;      // 7
     num5 = input / 10;      // 1
     */
+
+    //실수에서 나머지 구하는 방법을 배움.
     
     printf("%d %d %d %d %d", num1, num2, num3, num4, num5);
     
