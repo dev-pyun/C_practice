@@ -10,4 +10,5 @@ int main()
     }
 
     return 0;
+    //else if도 비슷한 방식입니다.
 }
