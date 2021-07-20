@@ -15,7 +15,7 @@ int main()
     {
         printf("20입니다 \n");
     }
-    else
+    else        //else도 마찬가지임!
     {
         printf("%d입니다", num1);
     }
