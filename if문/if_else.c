@@ -12,6 +12,7 @@ int main()
     {
         printf("10이 아닙니다.\n");
     }
+    //if와 else는 서로 붙여써야한다.
 
     return 0;
 }
