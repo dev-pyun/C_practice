@@ -1,8 +1,12 @@
 #include <stdio.h>
+#define _CRT_SECURE_NO_WARNINGS
 
 int main()
 {
     int num1 = 5;
+    int num2;
+
+    scanf("%d\n", &num2);
 
     if (num1 == 10)
     {
