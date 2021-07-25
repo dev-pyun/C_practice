@@ -18,6 +18,7 @@ int main()
     }
     //if와 else는 서로 붙여써야한다.
     //else if, else도 마찬가지!
+    //scanf는 점점 오류가 많아져서 나중에 다른 녀석 배울거야!
 
     return 0;
 }
